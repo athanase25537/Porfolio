@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    background-image: url('img/digitalwlp.webp');
+    background-size: cover;
+}
+
+.card1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid rgb(67, 184, 164);
+    padding: 2%;
+    width: 80%;
+    height: 50%;
+}
+
+input, textarea{
+    background-image: url('img/digital3.jpg');
+    color: white;
+}
+label{
+    color: white;
+    font-size: large;
+}
