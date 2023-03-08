@@ -1,0 +1,15 @@
+{
+    "name": "andriamasy/portfolio",
+    "description": "Projet personel",
+    "autoload": {
+        "psr-4": {
+            "Application\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Athanase"
+        }
+    ],
+    "require": {}
+}

@@ -7,6 +7,8 @@ ob_start();
   <div class="alert alert-success"><?= $message ?></div>
 <?php endif ?>
 
+<a href="../src/Controllers/logout.php" class="btn btn-primary">Deconnecter</a>
+
 <div class="card1">
   <div class="row">
     <?php foreach($contents as $content): ?>
